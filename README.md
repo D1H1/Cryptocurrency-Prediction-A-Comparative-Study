@@ -2,6 +2,7 @@
 Academic project for crypto prediction utilizing and comparing different approaches
 
 ![Снимок экрана от 2023-08-24 04-07-26](https://github.com/D1H1/Crypto-prediction-LSTM-ARIMA-Prophet/assets/94292673/a9604063-ae69-458c-9771-0015c154b899)
+
 [Original notebook](https://www.kaggle.com/code/davidhavrilenko/cryptocurrency-prediction-lstm-prophet-arima/notebook)
 
 Cryptocurrency Prediction: A Comparative Study of Forecasting Models
