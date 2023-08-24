@@ -17,6 +17,6 @@ Comparative Analysis: A systematic comparison of the models, highlighting their 
 Usage and Collaboration
 This project is designed to be both a practical tool for cryptocurrency traders and a valuable resource for researchers and students in the fields of finance and machine learning. Contributions, feedback, and collaboration are warmly welcomed.
 
-Original notebook: https://www.kaggle.com/code/davidhavrilenko/cryptocurrency-prediction-lstm-prophet-arima/notebook
+[Original notebook](https://www.kaggle.com/code/davidhavrilenko/cryptocurrency-prediction-lstm-prophet-arima/notebook)
 
 ![Снимок экрана от 2023-08-24 04-07-26](https://github.com/D1H1/Crypto-prediction-LSTM-ARIMA-Prophet/assets/94292673/a9604063-ae69-458c-9771-0015c154b899)
