@@ -17,11 +17,15 @@ Project Highlights
 
 Data Processing and Visualization: Comprehensive preprocessing and explorative analysis of historical cryptocurrency data, ensuring quality and relevance for predictive modeling.
 
+
 Model Training and Evaluation: Implementation and fine-tuning of LSTM, Prophet, ARIMA, and Exponential Smoothing models, followed by rigorous evaluation and comparison.
+
 
 One-Day Ahead Forecasting: All models are employed to predict cryptocurrency prices one day into the future, providing valuable insights for short-term investment strategies.
 
+
 Comparative Analysis: A systematic comparison of the models, highlighting their strengths, weaknesses, and suitability for different scenarios in cryptocurrency price prediction.
 Usage and Collaboration
+
 
 This project is designed to be both a practical tool for cryptocurrency traders and a valuable resource for researchers and students in the fields of finance and machine learning. Contributions, feedback, and collaboration are warmly welcomed.
